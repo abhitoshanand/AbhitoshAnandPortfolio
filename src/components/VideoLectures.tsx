@@ -18,7 +18,7 @@ export function VideoLectures() {
     {
       title: "Wave Motion and Sound",
       description: "Understanding the principles of wave motion and sound propagation through various mediums.",
-      thumbnail: "https://images.unsplash.com/photo-1614628079765-6c171b07a4a6?w=800&h=600",
+      thumbnail: "/LectureTwoImage.png",
       videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
       lessonPlanUrl: "/lesson-plans/wave-motion.pdf"
     },
