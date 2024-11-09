@@ -5,15 +5,15 @@ export function Profile() {
     <section id="profile" className="min-h-screen flex flex-col md:flex-row items-center justify-center gap-12 px-6 md:px-16">
       <div className="w-64 h-64 md:w-96 md:h-96 rounded-full overflow-hidden animate-fade-in hover:scale-105 transition-transform duration-300 border-4 border-secondary">
         <img
-          src="./assets/AbhitoshProfile.jpg"
+          src="public/AbhitoshProfile.jpg"
           alt="Profile"
           className="w-full h-full object-cover"
         />
       </div>
       <div className="text-center md:text-left animate-slide-up">
-        <p className="text-lg font-semibold text-primary dark:text-light mb-2">Hello, I'm</p>
+        <p className="text-lg font-semibold text-secondary dark:text-light mb-2">Hello, I'm</p>
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-primary dark:text-white">Abhitosh Anand</h1>
-        <p className="text-2xl text-primary dark:text-light mb-8">Physics Teacher</p>
+        <p className="text-2xl text-secondary dark:text-light mb-8">Physics Teacher</p>
         <div className="flex gap-4 justify-center md:justify-start mb-8">
           <button onClick={() => window.open('/resume.pdf')} className="btn-secondary">
             Download CV
