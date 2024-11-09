@@ -14,7 +14,7 @@ export function Projects() {
     {
       title: 'Generation and Application of Non Thermal Plasma',
       description: 'Research project conducted during M.Sc Physics focusing on cold plasma generation, characterization, and applications across various fields.',
-      image: 'https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=600',
+      image: '/freepik__candid-image-photography-natural-textures-highly-r__53161.jpeg',
       abstract: `Plasma, widely recognized as the "fourth state of matter," represents a unique phase characterized by ionized gas containing free electrons, ions, and neutral species that exhibit collective behavior and electromagnetic responsiveness. This dissertation presents a comprehensive investigation into cold plasma (non-thermal plasma), a specialized subset of plasma physics where electrons maintain high energy levels while the bulk gas remains at or near room temperature. This thermal disequilibrium creates distinct advantages for applications requiring precise control and temperature sensitivity.
 
 The research encompasses both fundamental theoretical frameworks and practical applications, examining the quantum mechanical principles underlying plasma formation and the engineering challenges in its controlled production. Primary focus is given to two dominant cold plasma generation methods: Dielectric Barrier Discharge (DBD) and Atmospheric Pressure Plasma Jet (APPJ). Through detailed experimental analysis, this work establishes optimal parameters for plasma generation and maintenance, including gas composition, pressure conditions, and electromagnetic field configurations.
