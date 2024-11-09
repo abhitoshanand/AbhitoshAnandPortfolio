@@ -15,7 +15,7 @@ export function Profile() {
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-primary dark:text-white">Abhitosh Anand</h1>
         <p className="text-2xl text-secondary dark:text-light mb-8">Physics Teacher</p>
         <div className="flex gap-4 justify-center md:justify-start mb-8">
-          <button onClick={() => window.open('/resume.pdf')} className="btn-secondary">
+          <button onClick={() => window.open('/AbhitoshAnandResume.pdf')} className="btn-secondary">
             Download CV
           </button>
           <button
